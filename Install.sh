@@ -1,4 +1,4 @@
-# installer#/sh
+# installer#/bash
 #version 1.0
 
 #01/05/19
