@@ -2062,7 +2062,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 #Install Fsociety
 
-187) git clone https://github.com/Manisso/fsociety
+187) git clone https://github.com/Manisso/fsociety.git
 echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
