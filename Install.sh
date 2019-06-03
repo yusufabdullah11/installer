@@ -2062,7 +2062,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 #Install Fsociety
 
-187) git clone https://github.com/Manisso/fsociety.git
+187) git clone https://github.com/Manisso/fsociety/blob/master/install.sh
 echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
@@ -2929,7 +2929,8 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: Kabel_sata" | lolcat
+00) 
+echo "AUTHOR: Kabel_sata" | lolcat
 echo "Project by Bony™✓" | lolcat
 echo "hacktivist" | lolcat
 echo "Bony™✓" | lolcat
