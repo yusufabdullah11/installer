@@ -2060,6 +2060,8 @@ echo -e "${y} SUDAH TERINSTALL.."
 186) git clone https://github.com/Senitopeng/TuyulBtn
 echo -e "${y} SUDAH TERINSTALL.."
 
+;;
+
 #Install Fsociety
 
 187) git clone https://github.com/Manisso/fsociety/blob/master/install.sh
